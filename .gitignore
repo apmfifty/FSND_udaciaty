@@ -1,0 +1,8 @@
+.DS_Store
+*.bak
+*.pyc
+*.log
+*.csv
+*.zip
+*.xlsx
+*.zip
